@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Write readable, testable code.
 
-We write Clear, Tidy, Well Structured, Readable Code that is easy to change
+We write clear, tidy, well structured, readable code that is easy to change
 
 We support our code with high-quality documentation.
 
