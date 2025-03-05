@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Write readable, testable code.
 
-We write well-documented code that is easy to read and understand.
+We write Clear, Tidy, Well Structured, Readable Code that is easy to change
 
 We support our code with high-quality documentation.
 
