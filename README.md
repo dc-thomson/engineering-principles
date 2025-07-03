@@ -1,101 +1,123 @@
 # Our Engineering Principles
 
-## 👩‍💻 Write readable, testable code.
+## We build it, we own it, we run it
 
-We write clear, tidy, well structured, readable code that is easy to change
+We are accountable for the entire lifecycle of the products, features, and systems we build or inherit; from design, development, test, deployment, impact, maintenance, and even deletion.
 
-We support our code with high-quality documentation.
+We continually monitor and support the systems we own and are empowered to maintain and improve them.
 
-We structure our code modularly for easier testing and debugging.
+We share knowledge around the systems we own to ensure continuity and empower effective support.
 
-We write tests with purpose that are easy to maintain and run.
+We put in place logging and metrics to monitor the health and performance of our systems and help with triaging and debugging of issues.
 
-We pair-program to produce high-quality code through collaboration.
+We ensure good coverage on logging and alerting so that problems can be identified rapidly.
 
-We create small branches and pull requests that are quicker and easier to review and release.
+We step in to support the response to incidents involving our systems and ensure we document comprehensively to aid others.
 
-We give and receive code review feedback in good faith.
+## Ship value every day
 
-We appreciate code review feedback for its learning value, and don’t view it as an obstacle.
+We value speed of iteration and delivering value to users (internal or external) faster and more frequently, but without compromising quality.
 
-We leave the code and tests better than we found them — everyone is free to suggest changes that improve our code and tests.
+We slice our work thin, allowing us to commit code within hours.
 
-## 📦 Ship small, and ship often.
+We use DevOps practices to confidently push changes multiple times a day.
 
-We refine tasks to their simplest form for quicker iteration.
+We avoid “Big Bang” releases, favouring small releases that can easily be rolled back if needed.
 
-We favour small releases that can be rolled back easily if needed.
+We refine tasks to their simplest form to promote agility and support rapid iteration.
 
-We avoid large feature branches and “Big Bang” releases, which are prone to bugs and errors.
+We use feature toggles to allow us to confidently push changes, enabling internal testing and phased rollouts.
 
-We use partial rollouts via feature flagging, when needed.
+We maintain the cleanliness of our deployment pipelines, ensuring streamlined processes and optimal performance.
 
-We run automated tests to stop problematic code from reaching Production systems.
+## Continuously learn and improve
 
-We deploy well-tested code to Production every day.
-
-We deliver value to customers every day.
-
-## 🔑 Own the code, and own the systems.
-
-We own the code and systems that we build, and we are responsible for maintaining them.
-
-We push back on requests that compromise the quality of our work.
-
-We triage the bugs detected in our systems, and commit time to bug fixing and other improvements.
-
-We monitor the health and performance of our systems through telemetry, logging, and alerts in our infrastructure.
-
-We respond swiftly to incidents, and prioritise incident “retros” to learn from what went wrong.
-
-## 🛡️ Protect our data.
-
-We take care of our data.
-
-We treat all of our data sensitively.
-
-We recognise the value of our data, particularly customer data.
-
-We are each accountable for our interactions with the data.
-
-We exclude PII from our development databases.
-
-We write code to defend our databases against common exploits, such as SQL injections.
-
-We comply with data regulations, such as GDPR, in the systems we build.
-
-We perform regular data backups.
-
-## ❤️ Help yourself by helping others.
-
-We prioritise unblocking our teams’ work when they are stuck, rather than resuming our own work.
-
-We pass on our skills, knowledge and experience to our teams to level them up, and avoid getting stuck later.
-
-We communicate with other teams regularly to inform them of our updates and changes, and learn about theirs.
-
-We reduce dependencies through constant communication, in our own teams and with other ones.
-
-We share the load of common maintenance work and improvements between teams.
-
-We work with teams across the business to achieve OKRs through engineering solutions.
-
-We provide technical context to the business that aids prioritisation and planning.
-
-## 📚 Never stop learning.
-
-We pursue personal development time each week to continuously improve our skills and knowledge.
-
-We share what we learn with our teams — be it Sprint Reviews, demos, code reviews, or other opportunities.
-
-We apply what we have learned to our work, thus improving our products and delivering greater value for our customers.
-
-We seek the positives in our failures, and learn from them.
-
-We always strive to evolve and improve our practices.
-
-## 🔄 Improve everything iteratively.
+We work to master our craft to benefit ourselves, our teams, and our customers.
 
 We believe that no process, code, product, skill, individual, or Engineering Principle is ever ‘100% complete’.
 
+We accept that failure can happen, but we look to fail forward, embracing all experiences, good or bad; always focusing on what learnings we can take to help us improve, sharing those learnings wherever possible.
+
 We believe that everything can be improved through iteration.
+
+We monitor and understand our career progression and routinely share our learning experiences with others.
+
+We use retrospectives and post-mortems to learn from experience and thus drive improvement.
+
+We engage diligently in Code Review, using it as an opportunity to share useful feedback and help others learn and improve.
+
+We ensure room for learning time in our weekly schedule, catering for all learning styles.
+
+We pass on our skills, knowledge, and experience to our teams to level them up and avoid getting stuck later.
+
+## We treat our data with respect
+
+The data we hold are our biggest assets. We handle them sensitively and treat them with respect.
+
+We protect our data and care about data integrity.
+
+Our editorial content, records data, customer data and behavioural data represent years of investment and research by us and our users.
+
+Our data drives the business and should be handled with care.
+
+We use tools for version control and migrations to ensure data integrity and minimize risk in database changes.
+
+We automate all changes to the database schema and provide rollback automation.
+
+We prioritize clarity, efficiency, scalability, and normalization in schema design.
+
+We backup data and test restore regularly.
+
+We use the principle of least privilege when accessing data.
+
+We exclude Personal Identifiable Information (PII) from our development databases and never log PII.
+
+We write code to defend our databases against common exploits, such as SQL injections.
+
+We comply with data regulations, such as GDPR, and automate these processes.
+
+## Minimise blockers and dependencies
+
+We work to minimize obstacles that can impact any team’s ability to achieve their goals.
+
+Teams should have the capability, flexibility, and can-do attitude to tackle any work needed to progress.
+
+They should build platforms and codebases that are accessible to all.
+
+Communication is vital; the owning team should always have awareness of changes, and priority should be given to unblocking any work on their systems.
+
+We document our code/services to ensure they are accessible to others.
+
+We communicate our plans/intentions to the owning team before we go ahead and make changes to their code/services.
+
+We show willingness to support others when they are having difficulty working in our codebases.
+
+We share the load of common maintenance work and improvements between teams.
+
+We work with teams across the business to achieve goals through engineering solutions.
+
+We provide technical context to the business that aids prioritisation and planning.
+
+We work with other engineers looking to contribute or use our systems, for example, providing documentation, pairing on implementations, or accepting pull requests.
+
+## We care deeply about quality
+
+We always leave code better than we found it; every little improvement helps, and the effort will be appreciated by others.
+
+We collaborate with product to prioritise technical work and to ensure we have time to develop high quality solutions.
+
+We write tested, maintainable, and documented code that is accessible to those reading it for the first time.
+
+We prioritise pair programming and ensure that all code is reviewed.
+
+We embody our learn and improve principle by making improvements to our code as we learn.
+
+We develop high quality solutions and push back on deadlines that force cutting corners.
+
+We ensure good coverage on testing.
+
+We leverage automated tests to gain confidence in deploying to production.
+
+We rigorously test any changes that may affect the data.
+
+We take care to balance technical improvements with other work, finding time to improve performance, fix bugs, and build out our systems to a high standard.
