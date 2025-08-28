@@ -84,7 +84,7 @@ We, as teams, have the capability, flexibility, and can-do attitude to tackle an
 
 We, as teams, build platforms and codebases that are accessible to all.
 
-Communication is vital; as teams we always have awareness of changes, and priority should be given to unblocking any work on our systems.
+Communication is vital; as teams we always have awareness of changes, and priority is given to unblocking any work on our systems.
 
 We document our code/services to ensure they are accessible to others.
 
