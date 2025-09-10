@@ -80,11 +80,11 @@ We comply with data regulations, such as GDPR, and automate these processes.
 
 We work to minimize obstacles that can impact any team’s ability to achieve their goals.
 
-Teams should have the capability, flexibility, and can-do attitude to tackle any work needed to progress.
+We, as teams, have the capability, flexibility, and can-do attitude to tackle any work needed to progress.
 
-They should build platforms and codebases that are accessible to all.
+We, as teams, build platforms and codebases that are accessible to all.
 
-Communication is vital; the owning team should always have awareness of changes, and priority should be given to unblocking any work on their systems.
+Communication is vital; as teams we always have awareness of changes, and priority is given to unblocking any work on our systems.
 
 We document our code/services to ensure they are accessible to others.
 
