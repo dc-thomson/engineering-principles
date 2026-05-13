@@ -2,17 +2,17 @@
 
 ## We build it, we own it, we run it
 
-We are accountable for the entire lifecycle of the products, features, and systems we build or inherit; from design, development, test, deployment, impact, maintenance, and even deletion.
+We are accountable for the **entire lifecycle** of the products, features, and systems we build or inherit; from design, development, test, deployment, impact, maintenance, and even deletion.
 
-We continually monitor and support the systems we own and are empowered to maintain and improve them.
+We continually **monitor and support** the systems we own and are empowered to maintain and improve them.
 
-We share knowledge around the systems we own to ensure continuity and empower effective support.
+We **share knowledge** around the systems we own to ensure continuity and empower effective support.
 
-We put in place logging and metrics to monitor the health and performance of our systems and help with triaging and debugging of issues.
+We put in place **logging and metrics** to monitor the health and performance of our systems and help with triaging and debugging of issues.
 
-We ensure good coverage on logging and alerting so that problems can be identified rapidly.
+We ensure business critical **alerting** so that problems can be identified rapidly.
 
-We step in to support the response to incidents involving our systems and ensure we document comprehensively to aid others.
+We step in to **support the respons**e to incidents involving our systems and ensure we document comprehensively to aid others.
 
 ## Ship value every day
 
