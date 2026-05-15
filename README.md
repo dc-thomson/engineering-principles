@@ -2,39 +2,39 @@
 
 ## We build it, we own it, we run it
 
-We are accountable for the entire lifecycle of the products, features, and systems we build or inherit; from design, development, test, deployment, impact, maintenance, and even deletion.
+We are accountable for the **entire lifecycle** of the products, features, and systems we build or inherit; from design, development, test, deployment, impact, maintenance, and even deletion.
 
-We continually monitor and support the systems we own and are empowered to maintain and improve them.
+We continually **monitor and support** the systems we own and are empowered to maintain and improve them.
 
-We share knowledge around the systems we own to ensure continuity and empower effective support.
+We **share knowledge** around the systems we own to ensure continuity and empower effective support.
 
-We put in place logging and metrics to monitor the health and performance of our systems and help with triaging and debugging of issues.
+We put in place **logging and metrics** to monitor the health and performance of our systems and help with triaging and debugging of issues.
 
-We ensure good coverage on logging and alerting so that problems can be identified rapidly.
+We ensure good coverage on **alerting** so that problems can be identified rapidly.
 
-We step in to support the response to incidents involving our systems and ensure we document comprehensively to aid others.
+We step in to **support the response** to incidents involving our systems and ensure we document comprehensively to aid others.
 
 ## Ship value every day
 
-We value speed of iteration and delivering value to users (internal or external) faster and more frequently, but without compromising quality.
+We value **speed of iteration** and delivering value to users (internal or external) faster and more frequently, but without compromising quality.
 
-We slice our work thin, allowing us to commit code within hours.
+We slice our work **thin**, allowing us to commit code within hours.
 
-We use DevOps practices to confidently push changes multiple times a day.
+We use DevOps practices to confidently **push changes multiple times a day**.
 
-We avoid “Big Bang” releases, favouring small releases that can easily be rolled back if needed.
+We avoid "Big Bang" releases, favouring **small releases** that can easily be rolled back if needed.
 
-We refine tasks to their simplest form to promote agility and support rapid iteration.
+We refine tasks to their simplest form to promote agility and support **rapid iteration**.
 
-We use feature toggles to allow us to confidently push changes, enabling internal testing and phased rollouts.
+We use **feature toggles** to allow us to confidently push changes, enabling internal testing and phased rollouts.
 
-We maintain the cleanliness of our deployment pipelines, ensuring streamlined processes and optimal performance.
+We maintain the cleanliness of our **deployment pipelines**, ensuring streamlined processes and optimal performance.
 
 ## Continuously learn and improve
 
 We work to master our craft to benefit ourselves, our teams, and our customers.
 
-We believe that no process, code, product, skill, individual, or Engineering Principle is ever ‘100% complete’.
+We believe that no process, code, product, skill, individual, or Engineering Principle is ever '100% complete'.
 
 We accept that failure can happen, but we look to fail forward, embracing all experiences, good or bad; always focusing on what learnings we can take to help us improve, sharing those learnings wherever possible.
 
