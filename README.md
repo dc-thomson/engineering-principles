@@ -10,7 +10,7 @@ We **share knowledge** around the systems we own to ensure continuity and empowe
 
 We put in place **logging and metrics** to monitor the health and performance of our systems and help with triaging and debugging of issues.
 
-We ensure business critical **alerting** so that problems can be identified rapidly.
+We ensure good coverage on **alerting** so that problems can be identified rapidly.
 
 We step in to **support the response** to incidents involving our systems and ensure we document comprehensively to aid others.
 
